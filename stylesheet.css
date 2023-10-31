@@ -1,0 +1,42 @@
+body{
+    background-color: azure;
+}
+
+h1{
+    color: black;
+    font-size: 24px;
+    font-family: 'Quicksand', sans-serif;
+}
+
+hr{
+    color: lightgoldenrodyellow;
+    height: 10px;
+}
+
+
+p{
+    font-family: 'Quicksand', sans-serif;
+}
+
+p{
+    text-indent: 20px;
+}
+
+img{
+    image-orientation: 20px;
+}
+
+li {
+    margin-bottom: 0.5rem;
+  }
+  
+
+#toptext{
+    position: absolute; top: 50px; left:200px;
+    background-color: lavenderblush;
+    padding: 20px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: lavender;
+    ;
+}
